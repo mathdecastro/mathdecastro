@@ -64,7 +64,7 @@ Analisando dados de uma empresa de aluguéis de bicicletas para a criação de u
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=mathdecastro&show_icons=true&theme=default&layout=compact"/>
 </div>
 
-## Habilidades Técnicas
+## ⚙ Habilidades Técnicas
 
 #### Linguagens de Programação:
 
