@@ -51,9 +51,9 @@ Analisando dados de uma empresa de aluguéis de bicicletas para a criação de u
 **Destaques deste projeto:**
 - Análise de dados exploratória para uma melhor compreensão dos dados e para guiar a etapa de seleção das variáveis *feature*;
 - Pré processamento dos dados, *one-hot encoding*, transformação de variáveis e utilização de conceitos de séries temporais;
-- Construção de modelos de regressão com scikit-learn e torch, do framework PyTorch.
+- Construção de modelos de regressão com scikit-learn.
 
-**Neste projeto eu utilizei:** `Python`· `Jupyter Notebook` · `pandas` · `numpy`· `matplotlib`· `seaborn` · `scikit-learn` · `torch`
+**Neste projeto eu utilizei:** `Python`· `Jupyter Notebook` · `pandas` · `numpy`· `matplotlib`· `seaborn` · `scikit-learn`
 
 📁 [Ver Projeto](https://github.com/mathdecastro/previsao-quantidade-de-bicicletas-alugadas-na-coreia-do-sul)
 
