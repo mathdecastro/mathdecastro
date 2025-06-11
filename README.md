@@ -2,7 +2,7 @@
 
 - 👀 Interesses: Estatística, Ciência de Dados, Análise de Dados  e Engenharia de Dados.
 - 🌱 Linguagens: Python, R, VBA, SQL e DAX.
-- ⚡ Curiosidades: Sou bacharel em Estatística pela Escola Nacional de Ciências Estatísticas (ENCE/IBGE), amo comer pizza de frango com catupiry, sushi e chocolate, sei resolver um cubo mágico em menos de 1 min, amo conversar sobre astronomia e tenho duas tatuagens.
+- ⚡ Curiosidades: Sou bacharel em Estatística pela Escola Nacional de Ciências Estatísticas (ENCE/IBGE), amo comer pizza de frango com catupiry, sushi e chocolate, sei resolver um cubo mágico em menos de 1 min, amo conversar sobre astronomia, jogo Counter-Strike há mais de 15 anos e tenho duas tatuagens.
 - 🔭 Em busca de uma vaga na área de dados.
 
 
