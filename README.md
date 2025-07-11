@@ -29,16 +29,17 @@ Analisando a série temporal mensal do volume de vendas do varejo de 2012 a 2022
 
 ---
 
-### 📊 *Análise de dados amostrais complexos da PNAD Contínua utilizando R - Em Inglês*
+### 📊 *Análise de dados amostrais complexos da PNAD Contínua utilizando Python - Em Inglês*
 
-Analisando dados da população do Brasil no 4º trimestre de 2024 oriundos de uma amostra que foi selecionada com base em um plano amostral complexo utilizando R.
+Criação de um dashboard para analisar dados da população do Brasil oriundos de uma amostra que foi selecionada com base em um plano amostral complexo utilizando Python.
 
 **Destaques deste projeto:**
 - Cálculo de estatísticas públicas de grande relevância como a taxa de desemprego, subutilização da força de trabalho e entre outras;
 - Visualizações por território nacional, estado e cidade;
+- Web Scraping para extração dos microdados utilizando o pacote requests;
 - Possível aplicação de modelos lineares generalizados para análises detalhadas.
 
-**Neste projeto eu utilizei:** `R` · `tidyverse` · `expss` · `PNADcIBGE` · `survey`
+**Neste projeto eu utilizei:** `Python` · `pandas` · `streamlit` · `numpy` · `requests`
 
 📁 [Ver Projeto](https://github.com/mathdecastro/complex-survey-data-analysis-in-brazil)
 
