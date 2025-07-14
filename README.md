@@ -60,6 +60,16 @@ Analisando dados de uma empresa de aluguéis de bicicletas para a criação de u
 
 ---
 
+### 🏯 *Meu primeiro Data Warehouse - Em Português*
+
+Criando o meu primeiro data warehouse com PostgreSQL, incluindo processos de ETL, modelagem de dados, analytics e boas práticas de engenharia de dados. Este projeto tem como objetivo demonstrar as minhas habilidades práticas de engenharia de dados em um cenário real de construção de um data warehouse.
+
+**Neste projeto eu estou utilizando:** `PostgreSQL`
+
+📁 [Ver Projeto](https://github.com/mathdecastro/meu-primeiro-data-warehouse)
+
+---
+
 <div  align="center" style="margin-bottom:100px">
 <img width=40% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=mathdecastro&theme=default&mode=weekly"/>
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=mathdecastro&show_icons=true&theme=default&layout=compact"/>
